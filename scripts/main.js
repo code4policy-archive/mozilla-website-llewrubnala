@@ -7,7 +7,7 @@ let fox_showing = true
  // Define a Function
  function sayOuch() {
 
- 	alert('Ouch! Stop poking me!');
+ 	alert("Don't pet the animals!");
 
  }
 
