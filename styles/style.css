@@ -38,10 +38,13 @@ img {
   margin: 0 auto;
 }
 
-p.quote {
+.quote {
   color:  red;
 }
 
+#mainquote {
+  border: 1px solid black;
+}
 
 
 
