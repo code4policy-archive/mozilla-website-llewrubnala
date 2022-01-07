@@ -38,6 +38,14 @@ img {
   margin: 0 auto;
 }
 
+.quote {
+  color:  red;
+}
+
+#mainquote {
+  border: 1px solid black;
+}
+
 
 
 
